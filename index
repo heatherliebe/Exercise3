@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      
+     <meta charset="UTF-8">
+     <meta name="author" content="Heather Liebe">
+      <meta name="keywords" content="exercise 3, Web Development, Web Design, HTML, CSS, Hozier, lyrics, music video">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Hozier Too Sweet</title>
+      <style>
+         .page-block {background: ivory;}
+         .centered {text-align: center;}
+         .first-line {font-style: italic;}
+      </style>
+   </head>
+   
+   <body>
+      <div id="art" class="container centered">
+ <img src="images/hozierAlbumCover.jpeg" alt="Side view of Hozie's face laying in dirt" title="Too Sweet album cover" width="500" />
+
+         <h1>Album Cover</h1>
+      </div>
+
+      <div id="video" class="container">
+         <h2 class="centered">Video Section</h2>
+         <p id="video-description"
+                class="description">
+   Hozier Video on YouTube.
+         </p>
+        <div>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/aezstCBHOPQ?si=0xALWgHQ1_UQ36cp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" width="500" height="300" preload controls>
+  <p>Sorry, your browser does not support the video tag.</p>
+        </div>
+</video>
+       
+      </div>
+
+      <div id="lyrics" class="container lyrics">
+         <h2 class="right">Lyric Section</h2>
+         <p id="lyric-description" class="description">
+<p>            
+        <h2 class="left" >Too Sweet by Hozier</h2>
+ <p>It can't be said I'm an early bird
+It's ten o'clock before I say a word
+Baby, I can never tell
+  How do you sleep so well? </p>
+    <p>
+You keep telling me to live right
+To go to bed before the daylight
+But then you wake up for the sunrise
+       You know you don't gotta pretend, baby, now and then</p>
+        <p>
+Don't you just wanna wake up, dark as a lake?
+Smelling like a bonfire, lost in a haze?
+If you're drunk on life, babe, I think it's great
+But while in this world
+        </p>
+        <p>
+I think I'll take my whiskey neat
+My coffee black and my bed at three
+You're too sweet for me
+You're too sweet for me
+        </p>
+        <p>
+I take my whiskey neat
+My coffee black and my bed at three
+You're too sweet for me
+You're too sweet for me
+        </p>
+        <p>
+Ooh-ooh, ooh-ooh
+Ooh-ooh, ooh-ooh
+Ooh-ooh, ooh-ooh
+Ooh-ooh, ooh-ooh
+        </p>
+  <p>
+I aim low
+I aim true and the ground's where I go
+I work late where I'm free from the phone
+And the job gets done
+But you worry some, I know
+        </p>
+<p>
+But who wants to live forever, babe?
+You treat your mouth as if it's Heaven's gate
+The rest of you like you're the TSA
+I wish I could go along, babe, don't get me wrong
+        </p>
+        <p>
+You know you're bright as the morning, as soft as the rain
+Pretty as a vine, as sweet as a grape
+If you can sit in a barrel, maybe I'll wait
+Until that day
+        </p>
+        <p>
+I'd rather take my whiskey neat
+My coffee black and my bed at three
+You're too sweet for me
+You're too sweet for me
+        </p>
+        <p>
+I take my whiskey neat
+My coffee black and my bed at three
+You're too sweet for me
+You're too sweet for me
+           </p>
+        <p>
+Whoa, oh-oh
+Whoa, oh-oh
+Whoa, oh-oh
+Whoa, oh-oh
+           </p>
+        <p>
+Whoa, oh-oh
+Whoa, oh-oh
+Whoa, oh-oh
+Whoa, oh-oh
+           </p>
+        <p>
+I take my whiskey neat
+My coffee black and my bed at three
+You're too sweet for me
+You're too sweet for me
+           </p>
+        <p>
+Source: Musixmatch
+          <br>
+Songwriters: Daniel Tannenbaum / Stuart Johnson / Andrew John Hozier-byrne / Tyler Reese Mehlenbacher / Sergiu Adrian Gherman / Chakra / Peter Gonzales
+          <br>
+Too Sweet lyrics © Universal Music Corp., The Evolving Music Company Limited, Pw Arrangements, Calowayfrombd, Sergfrombd, Bekon Productions, Little Drummer Boy, Konscious Studios Publishing
+
+         </p>
+      </div>
+  </body>
+</html>

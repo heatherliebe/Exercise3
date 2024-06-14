@@ -1,5 +1,5 @@
 body {
-  background-color: (8, 36, 40);
+  background-color: (powderblue);
   text-align: left;
 }
 .container {
@@ -7,11 +7,11 @@ body {
   width: 600px;
   margin: auto;
   padding: 20px;
-  border: 1px solid black;
+  border: 3px solid black;
 }
 .lyrics p, pre {
-  background-color: white;
-  color: black;
+  background-color: (11, 35, 46);
+  color: white;
   font-size: small;
   font-family: Trebuchet MS;
   width: 200px;
